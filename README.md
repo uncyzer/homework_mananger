@@ -4,7 +4,8 @@ This project is not a school project but a personnal project destinated to help 
 ## How to use it
 Discord implemtation (not finished yet)
 ```bash
-$ python3 main.py
+$ javac -cp .:jda-4.2.0_209.jar App.java
+$ java -cp .:jda-4.2.0_209.jar App
 ```
 
 ## Contributing
